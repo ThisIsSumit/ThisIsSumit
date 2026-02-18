@@ -2,7 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img 
+  align="right"
+  alt="coding"
+  width="400"
+  src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif"
+  style="border-radius: 50%; object-fit: cover;"
+/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisIsSumit&label=Profile%20views&color=0e75b6&style=flat" alt="ThisIsSumit" /> </p>
 
