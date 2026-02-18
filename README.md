@@ -5,9 +5,8 @@
 <img 
   align="right"
   alt="coding"
-  width="400"
+  width="300"
   src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif"
-  style="border-radius: 50%; object-fit: cover;"
 />
 
 
