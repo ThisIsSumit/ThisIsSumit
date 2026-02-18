@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissumit&label=Profile%20views&color=0e75b6&style=flat" alt="thisissumit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisissumit" alt="thisissumit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThisIsSumit" alt="ThisIsSumit" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sumitthisside-portfolio.netlify.app/](https://sumitthisside-portfolio.netlify.app/)
 
