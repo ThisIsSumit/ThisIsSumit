@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo2dGdjYnQ2cnN3d2gyc3VrM2VkNDlhejY4dWE4Y3R5dDJjbW5pdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boYxZ1fa72kcgr70sN/200.webp">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisIsSumit&label=Profile%20views&color=0e75b6&style=flat" alt="ThisIsSumit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisIsSumit&label=Profile%20views&color=0e75b6&style=flat" alt="ThisIsSumit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThisIsSumit" alt="ThisIsSumit" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThisIsSumit" alt="ThisIsSumit" /></a> </p> 
 
 - 👨‍💻 All of my projects are available at [https://sumitthisside-portfolio.netlify.app/](https://sumitthisside-portfolio.netlify.app/)
 
