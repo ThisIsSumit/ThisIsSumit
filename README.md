@@ -1,6 +1,14 @@
 ![logo](https://github.com/user-attachments/assets/9ed7befc-3f5b-4032-86e0-137884dd3615)
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
+<p align="left">
+  <a href="https://thisissumit.github.io/sumit-portfolio/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      height="32"
+    />
+  </a>
+</p>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img 
   align="right"
@@ -9,12 +17,11 @@
   src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif"
 />
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisIsSumit&label=Profile%20views&color=0e75b6&style=flat" alt="ThisIsSumit" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThisIsSumit" alt="ThisIsSumit" /></a> </p>  -->
 
-- 👨‍💻 All of my projects are available at [https://sumitthisside-portfolio.netlify.app/](https://sumitthisside-portfolio.netlify.app/)
+
 
 - 💬 Ask me about **Flutter, React, Springboot,Next.js**
 
