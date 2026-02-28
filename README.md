@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <p align="left">
-  <a href="https://thisissumit.github.io/sumit-portfolio/" target="_blank">
+  <a href="https://thisissumit.github.io/sumit-portfolio/">
     <img 
       src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" 
       height="32"
