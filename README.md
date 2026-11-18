@@ -16,6 +16,18 @@
 
 
 
+
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThisIsSumit&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisIsSumit&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%" />
+</p>
+
+---
 ### 🛠️ Tech stack
 
 **Languages**
@@ -37,18 +49,6 @@
 <p><img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /> &nbsp; plus pandas, seaborn, pgvector, Voyage AI, Gemini, Claude, OpenRouter</p>
 
 ---
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThisIsSumit&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisIsSumit&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%" />
-</p>
-
----
-
 ### 🌐 Find me elsewhere
 
 <p align="center">
